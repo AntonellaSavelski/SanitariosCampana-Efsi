@@ -14,12 +14,16 @@
     margin: 0.5rem;
     width: auto;
     border-radius: 0;
+    border: 1px solid rgb(159, 159, 159);
 }
 .sinborde{
     border-radius: 0;
     text-align: center;
     margin-bottom: 2rem;
-    border-color: lightblue;
+    border: 2px solid rgb(156, 182, 190)
+}
+#especial{
+    background-color: rgb(156, 182, 190);
 }
 .linea{
     border: 1rem solid #504e4b;
